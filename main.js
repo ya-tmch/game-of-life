@@ -304,4 +304,3 @@ let appComponent = {
 
 Vue.component('cell', cellComponent)
 app = new Vue(appComponent)
-
